@@ -1,7 +1,18 @@
 # How-to-create-reports-with-R-Markdown-in-RStudio
+Data Science updates:-How to create reports with R Markdown in RStudio
 
+# Subscribe to the YouTube channel for more videos in this series :-
+https://www.youtube.com/channel/UCC5o...
+.
+# Follow us on FaceBook Link:-
+https://www.facebook.com/Sckadam91
+. 
+# Instagram :- pythonrprogramming
+.
+Github link:-https://github.com/sujitkadam91/
 ## Subscribe this YouTube Channel Data/Fun
 
+Below are sample R code
 #load required libraries
 install.packages(titanic)
 library(titanic)
